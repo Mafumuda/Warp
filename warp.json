@@ -141,7 +141,7 @@
             "server_port": 939,
             "local_address": [
                 "172.16.0.2\/32",
-                "2606:4700:110:8131:666:dbdf:3677:dd98\/128"
+                "2606:4700:110:8991:7818:58e1:676f:2832\/128"
             ],
             "private_key": "uBMjqMRzep1NppfT91NNZtzVgxo5rMS3AbOrAta3EV0=",
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo=",
